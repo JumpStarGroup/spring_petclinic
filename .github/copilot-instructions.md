@@ -1,0 +1,1 @@
+For java project, we always use Gradle for build not Maven/MVN
