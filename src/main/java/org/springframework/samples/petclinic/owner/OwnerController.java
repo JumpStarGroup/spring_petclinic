@@ -45,6 +45,8 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
  * @upated by Wick Dynex
  * @apiNote This class is a controller for the owner entity.
  * @implNote This class is a controller for the owner entity.
+ * @since 1.0
+ * @version 1.0
  */
 @Controller
 class OwnerController {
